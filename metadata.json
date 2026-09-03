@@ -1,0 +1,6 @@
+{
+  "name": "Department of Human Resources",
+  "description": "Official public portal for the Government Human Resources Department featuring news, upcoming workforce events, official social updates, and an image showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
